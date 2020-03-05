@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>My Blog</title>
+  <title>Shop</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
