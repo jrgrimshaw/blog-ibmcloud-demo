@@ -7,7 +7,7 @@
 
 <body>
   <div class="container">
-    <h1>Marina's Shop</h1>
+    <h1>James's Shop</h1>
 
     <nav>
       <a href="">Home</a> | <a href="">Products</a> | <a href="">Cart</a>
