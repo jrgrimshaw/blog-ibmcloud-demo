@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  background: #eee;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  width: 400px;
+  margin: 50px auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 0px;
+  color: black;
+}
+
+nav {
+  margin: 40px;
+  text-align: center;
+  color: #999;
+}
+
+nav a {
+  color: #08c;
+  text-decoration: none;
+  font-size: 1.2rem;
+  margin: 0 10px;
+}
+
+.post {
+  padding: 20px;
+  margin-bottom: 50px;
+  background: #333;
+  color: white;
+}
+
+.post img {
+  width: 100%;
+}
+
+.post p {
+  line-height: 1.25rem;
+}
